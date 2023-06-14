@@ -52,6 +52,7 @@ $ flutter run
 
 ## Result
 - Demo Video
+
 https://github.com/kjeih/social-media-feed/assets/56865797/b3ec7423-e51d-486a-bcce-c2027afd56e2
 
 - Pages
