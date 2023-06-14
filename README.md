@@ -51,6 +51,6 @@ $ flutter run
 ```
 
 ## Result
-[](./media/media/Screenshot_20230614_231920.png)
+Demo video is in [here](./media/demo_video.mp4)
 
-
+Pages are in [here](./media)
