@@ -53,11 +53,11 @@ $ flutter run
 ## Result
 - Demo Video
 
-https://github.com/kjeih/social-media-feed/assets/56865797/b3ec7423-e51d-486a-bcce-c2027afd56e2
+https://github.com/kjeih/social-media-feed/assets/56865797/3bc0a43c-462a-487d-a45a-01eaf8686474
 
 - Pages
-<img width="135" alt="Screenshot_20230614_231920" src="https://github.com/kjeih/social-media-feed/assets/56865797/365aa500-6cf3-4058-a697-ff669aa443d9">
-<img width="135" alt="Screenshot_20230614_232005" src="https://github.com/kjeih/social-media-feed/assets/56865797/da2d213c-724c-45b4-983a-2309a9805138">
-<img width="135" alt="Screenshot_20230614_232023" src="https://github.com/kjeih/social-media-feed/assets/56865797/d2ac2d7e-a8ef-4288-9ad1-84ce1433d2e2">
-<img width="135" alt="Screenshot_20230614_232035" src="https://github.com/kjeih/social-media-feed/assets/56865797/05328e20-919c-4530-bdc3-cdfa0ee75858">
-<img width="135" alt="Screenshot_20230614_233231" src="https://github.com/kjeih/social-media-feed/assets/56865797/3f67aa0a-d415-4297-84f9-4c97af554ae7">
+<img width="135" alt="Screenshot_20230614_231920" src="https://github.com/kjeih/social-media-feed/assets/56865797/1fb27e0d-b975-45f1-a49c-f17e165c4421">
+<img width="135" alt="Screenshot_20230614_232005" src="https://github.com/kjeih/social-media-feed/assets/56865797/97501e74-666c-4ec4-810c-f22eee85179f">
+<img width="135" alt="Screenshot_20230614_232023" src="https://github.com/kjeih/social-media-feed/assets/56865797/7d864a83-8525-4ca9-8653-28c4f5ce9a71">
+<img width="135" alt="Screenshot_20230614_232035" src="https://github.com/kjeih/social-media-feed/assets/56865797/c22d7934-7870-45e8-932b-509955c5387a">
+<img width="135" alt="Screenshot_20230614_233231" src="https://github.com/kjeih/social-media-feed/assets/56865797/8e262f50-03e4-432b-be2c-f4909f5d9ba7">
