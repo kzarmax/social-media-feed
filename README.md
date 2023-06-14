@@ -34,12 +34,12 @@ This app displays a list of posts fetched from an API. The feed should provide t
 1. Clone git repository
 
 ```
-$ git clone dfdf
+$ git clone https://github.com/kjeih/social-media-feed
 ```
 2. Clean and install flutter pub packages
 
 ```
-$ cd dfdf
+$ cd social-media-feed
 $ flutter clean
 $ flutter pub get
 ```
@@ -51,5 +51,6 @@ $ flutter run
 ```
 
 ## Result
+[](./media/media/Screenshot_20230614_231920.png)
 
 
