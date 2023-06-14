@@ -51,6 +51,12 @@ $ flutter run
 ```
 
 ## Result
-Demo video is in [here](./media/demo_video.mp4)
+- Demo Video
+https://github.com/kjeih/social-media-feed/assets/56865797/b3ec7423-e51d-486a-bcce-c2027afd56e2
 
-Pages are in [here](./media)
+- Pages
+<img width="135" alt="Screenshot_20230614_231920" src="https://github.com/kjeih/social-media-feed/assets/56865797/365aa500-6cf3-4058-a697-ff669aa443d9">
+<img width="135" alt="Screenshot_20230614_232005" src="https://github.com/kjeih/social-media-feed/assets/56865797/da2d213c-724c-45b4-983a-2309a9805138">
+<img width="135" alt="Screenshot_20230614_232023" src="https://github.com/kjeih/social-media-feed/assets/56865797/d2ac2d7e-a8ef-4288-9ad1-84ce1433d2e2">
+<img width="135" alt="Screenshot_20230614_232035" src="https://github.com/kjeih/social-media-feed/assets/56865797/05328e20-919c-4530-bdc3-cdfa0ee75858">
+<img width="135" alt="Screenshot_20230614_233231" src="https://github.com/kjeih/social-media-feed/assets/56865797/3f67aa0a-d415-4297-84f9-4c97af554ae7">
